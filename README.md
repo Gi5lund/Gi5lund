@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gi5lund
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, javascript (fullstack)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mortengislund@gmail.com
 
