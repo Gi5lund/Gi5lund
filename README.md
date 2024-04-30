@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gi5lund
-- 🌱 I’m currently learning Java, javascript (fullstack)
+- 🌱 I’m currently learning Java, javascript. Studying in AP Computer Science in Copenhagen.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mortengislund@gmail.com
 
